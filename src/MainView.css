@@ -1,12 +1,10 @@
-.app {
-    background-color: rgba(50, 245, 40, 0.85);
-}
-
-.app__body {
+.shopping-list {
+    /*background-color: blue;*/
     flex: 1;
-    padding: 30px 150px;
+    /*padding: 30px 150px;*/
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: red;
 }
