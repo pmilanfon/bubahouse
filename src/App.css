@@ -1,5 +1,21 @@
-.app {
-    background-color: rgba(50, 245, 40, 0.85);
+/** {
+    border: 1px solid blue;
+}
+
+div > * {
+    border: 1px solid rosybrown;
+}*/
+
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+}
+
+#root {
+    height: 100% !important;
+    background-color: #f1f2f5;
 }
 
 .app__body {
